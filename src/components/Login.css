@@ -1,0 +1,13 @@
+.container{
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 2px 7px 5px black;
+    margin-top: 200px;
+    border: 1px solid white;
+    padding-bottom: 20px;
+}
+.bttn{
+    justify-content: center;
+    display: flex;
+    margin-top: 10px;
+}
